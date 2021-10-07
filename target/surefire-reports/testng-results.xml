@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="nopCommerce" duration-ms="49458" started-at="2021-10-07T15:02:11 EDT" finished-at="2021-10-07T15:03:00 EDT">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="49458" started-at="2021-10-07T15:02:11 EDT" finished-at="2021-10-07T15:03:00 EDT">
+      <class name="com.nopcommerce.testCases.TC_FindingPendingTransaction_006">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_FindingPendingTransaction_006@670b40af]" name="setup" is-config="true" duration-ms="1297" started-at="2021-10-07T15:02:43 EDT" finished-at="2021-10-07T15:02:44 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[msedge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findStatus()[pri:0, instance:com.nopcommerce.testCases.TC_FindingPendingTransaction_006@670b40af]" name="findStatus" duration-ms="14505" started-at="2021-10-07T15:02:44 EDT" finished-at="2021-10-07T15:02:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findStatus -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.nopcommerce.testCases.TC_FindingPendingTransaction_006@670b40af]" name="TearDown" is-config="true" duration-ms="1196" started-at="2021-10-07T15:02:59 EDT" finished-at="2021-10-07T15:03:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_FindingPendingTransaction_006 -->
+      <class name="com.nopcommerce.testCases.TC_PersonalizeStore_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_PersonalizeStore_004@cb51256]" name="setup" is-config="true" duration-ms="2164" started-at="2021-10-07T15:02:11 EDT" finished-at="2021-10-07T15:02:13 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[msedge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="personalizeStore()[pri:0, instance:com.nopcommerce.testCases.TC_PersonalizeStore_004@cb51256]" name="personalizeStore" duration-ms="15753" started-at="2021-10-07T15:02:13 EDT" finished-at="2021-10-07T15:02:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalizeStore -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.nopcommerce.testCases.TC_PersonalizeStore_004@cb51256]" name="TearDown" is-config="true" duration-ms="755" started-at="2021-10-07T15:02:29 EDT" finished-at="2021-10-07T15:02:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_PersonalizeStore_004 -->
+      <class name="com.nopcommerce.testCases.TC_SearchingProduct_005">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_SearchingProduct_005@27f723]" name="setup" is-config="true" duration-ms="1401" started-at="2021-10-07T15:02:30 EDT" finished-at="2021-10-07T15:02:31 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[msedge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.nopcommerce.testCases.TC_SearchingProduct_005@27f723]" name="searchProduct" duration-ms="10682" started-at="2021-10-07T15:02:31 EDT" finished-at="2021-10-07T15:02:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.nopcommerce.testCases.TC_SearchingProduct_005@27f723]" name="TearDown" is-config="true" duration-ms="1457" started-at="2021-10-07T15:02:42 EDT" finished-at="2021-10-07T15:02:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_SearchingProduct_005 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- nopCommerce -->
+</testng-results>

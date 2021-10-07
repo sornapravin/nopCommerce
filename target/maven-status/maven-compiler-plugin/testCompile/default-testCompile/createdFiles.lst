@@ -1,0 +1,17 @@
+com\nopcommerce\pageObjects\FindPendingTransaction.class
+com\nopcommerce\pageObjects\SearchProduct.class
+com\nopcommerce\testCases\TC_FindingPendingTransaction_006.class
+com\nopcommerce\pageObjects\AddCustomer.class
+com\nopcommerce\pageObjects\LoginPage.class
+com\nopcommerce\testCases\TC_PersonalizeStore_004.class
+com\nopcommerce\testCases\TC_AddingCustomer_003.class
+com\nopcommerce\testCases\BaseClass.class
+com\nopcommerce\utilitizes\Reporting.class
+com\nopcommerce\pageObjects\LocateProduct.class
+com\nopcommerce\pageObjects\PersonalizeStore.class
+com\nopcommerce\utilitizes\ReadConfig.class
+com\nopcommerce\utilitizes\XLUtils.class
+com\nopcommerce\testCases\TC_SearchingProduct_005.class
+com\nopcommerce\testCases\TC_LocateProducct_007.class
+com\nopcommerce\testCases\TC_LoginDDT_002.class
+com\nopcommerce\testCases\TC_LoginTest_001.class
